@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RohitSagar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pytthon,C
+- 🌱 I’m currently learning Python,C
 - 💞️ I’m looking for learn buddies
 - 📫 How to reach me... through Email
 - 😄 Pronouns: Straight mail
