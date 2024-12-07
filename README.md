@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,C
 - 💞️ I’m looking for learn buddies
 - 📫 How to reach me... through Email
-- 😄 Pronouns: Straight mail
+- 😄 Pronouns:sin/cos
 - ⚡ Fun fact: 
 
 <!---
