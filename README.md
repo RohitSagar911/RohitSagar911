@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RohitSagar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python,C
-- 💞️ I’m looking for learn buddies
+- 👀 interested in Programming
+- 🌱 currently learning Python,C
+- 💞️ looking for learn buddies
 - 📫 How to reach me... through Email
 - 😄 Pronouns:sin/cos
 - ⚡ Fun fact: 
