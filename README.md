@@ -1,12 +1,21 @@
-- 👋 Hi, I’m RohitSagar
-- 👀 interested in Programming
-- 🌱 currently learning Python,C
-- 💞️ looking for learn buddies
-- 📫 How to reach me... through Email
-- 😄 Pronouns:sin/cos
-- ⚡ Fun fact: 
+### Hi, I'm Rohit 👋
 
-<!---
-RohitSagar911/RohitSagar911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a BCA student passionate about Web and software Development 💻  
+Currently learning JavaScript, Python & working on front-end projects.  
+My goal is to pursue higher studies and a successful tech career
+
+---
+
+🔧 **Tech Stack**  
+- HTML, CSS, JavaScript  
+- Python (Basics)
+- C programming (basic)  
+- Git, GitHub  
+
+📫 **Let's connect**  
+[LinkedIn](https://www.linkedin.com/in/rohit-sagar-654720342/) 
+[Email](mailto:rohitsagarhack@gmail.com)
+[Twitter](https://x.com/Nemesis_prime9)
+
+
+✨ *“Eat. Code. Sleep. Repeat.”*
