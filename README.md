@@ -7,7 +7,7 @@
 - 🌱 I’m learning **JavaScript, Python, and Responsive Web Design**
 - 💬 Ask me about **HTML, CSS, GitHub basics**
 - 📫 How to reach me: **rohitsagarhackgmail.com**
-- ⚡ Fun fact: *“Coding my way from Agra to Germany 🇩🇪”*
+- ⚡ Fun fact: *“”*
 
 ---
 
@@ -25,23 +25,23 @@
 
 ### 📌 Featured Projects
 
-#### ✅ [Weather App](https://your-weather-app.netlify.app)
+#### ✅ [Weather App](https://mausam-forcast.netlify.app/)
 - A simple weather app using HTML, CSS & JS  
 - [GitHub Repo](https://github.com/RohitSagar911/weather-app)
 
-#### ✅ [To-Do List](https://your-todo-app.netlify.app)
+#### ✅ [To-Do List]()
 - Manage tasks with this sleek to-do app  
 - [GitHub Repo](https://github.com/RohitSagar911/todo-list)
 
-#### ✅ [Notes App](https://your-notes-app.netlify.app)
+#### ✅ [Notes App]()
 - Save your thoughts and notes with localStorage  
 - [GitHub Repo](https://github.com/RohitSagar911/notes-app)
 
-#### ✅ [Rock Paper Scissors Game](https://your-rps-game.netlify.app)
+#### ✅ [Rock Paper Scissors Game](https://rcp-sythexis-frfr.netlify.app/)
 - Fun mini game to practice JS logic and responsive design  
 - [GitHub Repo](https://github.com/RohitSagar911/rock-paper-scissors)
 
-<-- #### ✅ [Digital Calculator](https://your-calculator.netlify.app)
+<-- #### ✅ [Digital Calculator]()
 - A clean, functional calculator built using HTML, CSS & JS  
 - [GitHub Repo](https://github.com/RohitSagar911/digital-calculator)
   -->
