@@ -41,10 +41,10 @@
 - Fun mini game to practice JS logic and responsive design  
 - [GitHub Repo](https://github.com/RohitSagar911/rock-paper-scissors)
 
-#### ✅ [Digital Calculator](https://your-calculator.netlify.app)
+<-- #### ✅ [Digital Calculator](https://your-calculator.netlify.app)
 - A clean, functional calculator built using HTML, CSS & JS  
 - [GitHub Repo](https://github.com/RohitSagar911/digital-calculator)
-
+  -->
 ---
 
 ### 📈 GitHub Stats
