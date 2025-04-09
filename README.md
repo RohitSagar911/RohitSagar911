@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Frontend Projects using JavaScript**
 - 🌱 I’m learning **JavaScript, Python, and Responsive Web Design**
 - 💬 Ask me about **HTML, CSS, GitHub basics**
-- 📫 How to reach me: **rohitsagar911@gmail.com**
+- 📫 How to reach me: **rohitsagarhackgmail.com**
 - ⚡ Fun fact: *“Coding my way from Agra to Germany 🇩🇪”*
 
 ---
@@ -58,5 +58,5 @@
 ---
 
 ### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-📧 Email: [rohitsagar911@gmail.com](mailto:rohitsagar911@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sagar-654720342/)  
+📧 Email: [rohitsagar911@gmail.com](mailto:rohitsagarhack@gmail.com)
