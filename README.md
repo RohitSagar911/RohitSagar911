@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">BCA Student | Frontend Developer | Learning JavaScript & Python | 🇩🇪 Future Developer in Germany</h3>
+<h3 align="center">BCA Student | Frontend Developer | Learning JavaScript & Python </h3>
 
 ---
 
@@ -60,3 +60,4 @@
 ### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sagar-654720342/)  
 📧 Email: [rohitsagar911@gmail.com](mailto:rohitsagarhack@gmail.com)
+✨ *“Eat. Code. Sleep. Repeat.”*
