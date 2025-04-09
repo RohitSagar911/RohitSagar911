@@ -13,9 +13,9 @@ My goal is to pursue higher studies and a successful tech career
 - Git, GitHub  
 
 📫 **Let's connect**  
-[LinkedIn](https://www.linkedin.com/in/rohit-sagar-654720342/) 
-[Email](mailto:rohitsagarhack@gmail.com)
-[Twitter](https://x.com/Nemesis_prime9)
+[LinkedIn](https://www.linkedin.com/in/rohit-sagar-654720342/) \n
+[Email](mailto:rohitsagarhack@gmail.com)\n
+[Twitter](https://x.com/Nemesis_prime9)\n
 
 
 ✨ *“Eat. Code. Sleep. Repeat.”*
