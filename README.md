@@ -26,7 +26,7 @@
 ### 📌 Featured Projects
 
 #### ✅ [Huddle Landing Page](https://sythexis-huddle.netlify.app/)
-- A simple weather app using HTML, CSS & JS  
+- A modern and responsive landing page for the Huddle platform. Built with HTML, CSS.
 - [GitHub Repo](https://github.com/RohitSagar911/Huddle-Landing-page)
 
 #### ✅ [Weather App](https://mausam-forcast.netlify.app/)
