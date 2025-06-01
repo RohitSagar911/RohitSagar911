@@ -8,6 +8,8 @@
 - 💬 Ask me about **HTML, CSS, GitHub basics**
 - 📫 How to reach me: **rohitsagarhackgmail.com**
 - ⚡ Fun fact: *“”*
+- ![Visitor Count](https://komarev.com/ghpvc/?username=RohitSagar911&style=flat-square&color=blue)
+
 
 ---
 
