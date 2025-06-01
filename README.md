@@ -25,6 +25,10 @@
 
 ### 📌 Featured Projects
 
+#### ✅ [Huddle Landing Page](https://sythexis-huddle.netlify.app/)
+- A simple weather app using HTML, CSS & JS  
+- [GitHub Repo](https://github.com/RohitSagar911/Huddle-Landing-page)
+
 #### ✅ [Weather App](https://mausam-forcast.netlify.app/)
 - A simple weather app using HTML, CSS & JS  
 - [GitHub Repo](https://github.com/RohitSagar911/weather-app)
