@@ -8,7 +8,6 @@
 - 💬 Ask me about **HTML, CSS, GitHub basics**
 - 📫 How to reach me: **rohitsagarhackgmail.com**
 - ⚡ Fun fact: *“”*
-- ![Visitor Count](https://komarev.com/ghpvc/?username=RohitSagar911&style=flat-square&color=blue)
 
 
 ---
@@ -62,4 +61,5 @@
 ### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sagar-654720342/)  
 📧 Email: [rohitsagar911@gmail.com](mailto:rohitsagarhack@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=RohitSagar911&style=flat-square&color=blue)
 ✨ *“Code. Sleep. Repeat.”*
