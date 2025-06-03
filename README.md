@@ -53,6 +53,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohitSagar911&show_icons=true&theme=radical" />
   <br/>
+  </p>
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSagar911&theme=radical" />
 </p>
 
