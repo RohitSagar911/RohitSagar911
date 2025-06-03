@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohitSagar911&show_icons=true&theme=radical" />
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=RohitSagar911&theme=nightowl)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=RohitSagar911&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
