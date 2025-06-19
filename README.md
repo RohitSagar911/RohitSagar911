@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Frontend Projects using JavaScript**
 - 🌱 I’m learning **JavaScript, Python, and Responsive Web Design**
 - 💬 Ask me about **HTML, CSS, GitHub basics**
-- 📫 How to reach me: **rohitsagarhackgmail.com**
+- 📫 How to reach me: **rohitsagarhack@gmail.com**
 - ⚡ Fun fact: *“”*
 
 
